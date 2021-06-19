@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Exemplo HTML5</title>
+    <style>
+        h1 {
+            font-family: Arial;
+            font-size: 30pt;
+            color: red;
+            text-shadow: 2px 2px 2px black;
+        }
+        h2 {
+            font-family: Arial;
+            font-size: 15;
+            color: black;
+        }
+        h3 {
+            font-family: Arial;
+            font-size: 20pt;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Você é o Amor da Minha Vida <3!</h1>
+    <h2>Você é a luz que me guia, nessa vida de escurião</h2>
+    <h2>Você é o meu mundo todinho.</h2>
+    <h2>Você é o único que tem a senha para o meu coração.</h2>
+    <h2>Você é o meu mozinho.</h2>
+    <h2>Eu te amo, lindinho.</h2>
+    <h3>Estou morrendo de saudades, meu bem!</h3>
+</body>
+</html>
